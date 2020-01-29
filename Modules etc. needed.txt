@@ -1,0 +1,14 @@
+1 Admin or Librarian module
+1 RequestBooks/Complaints/BookLost/BookDamaged module
+1 User module
+1 Database
+
+Admin module :: It needs to be abe to enter new book details, view books lent history, books still not returned past deadline,
+view information of request module
+
+RequestBooks/Complaints/BookLost/BookDamaged module :: as the name says
+
+User Module :: It needs
+
+Database :: It needs to store data about books,admin and user profile/login information,history for individual books when they were lent,
+history for users about books taken,returned and still tobe returned,
